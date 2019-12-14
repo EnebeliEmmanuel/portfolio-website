@@ -237,10 +237,10 @@ li{
 }
 
 .attractive{
-  font-size: 8rem;
+  font-size: 10rem;
    background: linear-gradient(to top, #ffe838, #fd57bf);
    -webkit-background-clip: text;
-  -webkit-text-fill-color: #ffe838;
+  -webkit-text-fill-color: #3665fd;
 }
 
 .padded{
@@ -249,6 +249,11 @@ li{
 
 .style{
   padding-right: 25%;
+}
+.nav-likes{
+  align-content: center;
+  justify-content: center;
+  display: flex;
 }
 
 
@@ -375,12 +380,12 @@ textarea{
   padding: 1rem;
   margin-bottom: 5px;
   border: none;
-  outline-color: #fd57bf;
+  outline-color: #0849fc;
 }
 
 input[type="submit"]{
   width: initial;
-  background-color: #eee;
+  background-color: rgb(9, 86, 252);
   padding: 1rem 2rem;
   border-radius: .8rem;
   cursor: pointer;
@@ -398,7 +403,7 @@ input[type="submit"]:hover{
 .copyright{
   width: 100%;
   text-align: center;
-  background-color: transparent;
+  background-color:rgb(70, 69, 69);
   padding: 2rem 0;
   position: relative;
 }
