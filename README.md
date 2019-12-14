@@ -1,2 +1,3 @@
 # portfolio-website
-just another repository
+This is website about myself
+
