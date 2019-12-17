@@ -5,6 +5,11 @@
   box-sizing: border-box;
 }
 
+.rounded-corners{
+  border-radius: 20px;
+}
+
+
 html{
   font-size: 10px;
   font-family: Arial, Helvetica, sans-serif;
